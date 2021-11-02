@@ -118,6 +118,10 @@ h1, .h1 {
   }
 }
 
+.card-text{
+  font-size:10px; 
+}
+
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
